@@ -23,7 +23,7 @@ I updated the CSS to center all text and added color for when you hover on the b
 
 Here's a walkthrough of implemented features:
 
-<img src='assets/WEB102_prework.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='assets/WEB102_prework.gif' title='Video Walkthrough' width='100' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with LiceCap (I put it in the assets folder and named it WEB102_Prework)
